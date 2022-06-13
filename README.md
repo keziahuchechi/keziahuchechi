@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @keziahuchechi
+- 👀 I’m interested in Data analysis 
+- 🌱 I’m currently learning PowerBi and SQL
+- 💞️ I’m looking to collaborate on data analysis projects in healthcare 
+- 📫 How to reach me: https://www.linkedin.com/in/keziahajah
